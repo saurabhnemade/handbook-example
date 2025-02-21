@@ -48,7 +48,7 @@ export default function Home(): ReactNode {
           <p>Welcome to the developer handbook. This guide provides an overview of our development practices, tools, and guidelines.</p>
         </HandbookSection>
         <HandbookSection title="Getting Started">
-          <p>To get started, please follow the instructions in the <Link to="/docs/intro">documentation</Link>.</p>
+          <p>To get started, please follow the instructions in the <Link to="/intro">documentation</Link>.</p>
         </HandbookSection>
         <HandbookSection title="Code of Conduct">
           <p>Our code of conduct outlines the expectations for behavior and interactions within the organization.</p>
